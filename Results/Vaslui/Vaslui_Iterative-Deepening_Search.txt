@@ -1,0 +1,15 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      Iterative-Deepening_Search Statistics: Vaslui to Bucharest 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Trip cost:  3
+
+Shortest Path:
+
+['Vaslui', 'Urziceni', 'Bucharest'] 
+
+Other Routes:
+    
+{'Urziceni', 'Iasi', 'Vaslui'}
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

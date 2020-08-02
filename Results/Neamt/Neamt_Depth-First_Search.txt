@@ -1,0 +1,15 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      Depth-First_Search Statistics: Neamt to Bucharest 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Trip cost:  7
+
+Shortest Path:
+
+['Neamt', 'Iasi', 'Vaslui', 'Urziceni', 'Bucharest'] 
+
+Other Routes:
+    
+['Iasi', 'Vaslui', 'Urziceni', 'Bucharest', 'Hirsova', 'Eforie']
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

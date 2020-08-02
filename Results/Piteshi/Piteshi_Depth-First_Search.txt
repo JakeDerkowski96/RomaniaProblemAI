@@ -1,0 +1,15 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      Depth-First_Search Statistics: Piteshi to Bucharest 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Trip cost:  2
+
+Shortest Path:
+
+['Piteshi', 'Bucharest'] 
+
+Other Routes:
+    
+['RimnicuVilcea', 'Craiova', 'Bucharest']
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

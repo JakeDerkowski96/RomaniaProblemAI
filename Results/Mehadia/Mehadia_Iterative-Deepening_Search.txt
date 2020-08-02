@@ -1,0 +1,15 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      Iterative-Deepening_Search Statistics: Mehadia to Bucharest 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Trip cost:  10
+
+Shortest Path:
+
+['Mehadia', 'Drobeta', 'Craiova', 'Piteshi', 'Bucharest'] 
+
+Other Routes:
+    
+{'Lugoj', 'Mehadia', 'Drobeta'}
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

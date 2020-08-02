@@ -1,0 +1,15 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      Breadth-First_Search Statistics: Sibiu to Bucharest 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Trip cost:  5
+
+Shortest Path:
+
+['Sibiu', 'Fagaras', 'Bucharest'] 
+
+Other Routes:
+    
+['Sibiu', 'Oradea', 'Arad', 'Rimnicu_Vilcea', 'Bucharest']
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,0 +1,15 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      Breadth-First_Search Statistics: Iasi to Bucharest 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Trip cost:  4
+
+Shortest Path:
+
+['Iasi', 'Vaslui', 'Urziceni', 'Bucharest'] 
+
+Other Routes:
+    
+['Iasi', 'Vaslui', 'Neamt', 'Bucharest']
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

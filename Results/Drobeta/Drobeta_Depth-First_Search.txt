@@ -1,0 +1,15 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      Depth-First_Search Statistics: Drobeta to Bucharest 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Trip cost:  4
+
+Shortest Path:
+
+['Drobeta', 'Craiova', 'Piteshi', 'Bucharest'] 
+
+Other Routes:
+    
+['Mehadia', 'Craiova', 'RimnicuVilcea', 'Piteshi', 'RimnicuVilcea', 'Bucharest']
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

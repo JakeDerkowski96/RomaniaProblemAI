@@ -1,0 +1,15 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      Depth-First_Search Statistics: Lugoj to Bucharest 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Trip cost:  6
+
+Shortest Path:
+
+['Lugoj', 'Mehadia', 'Drobeta', 'Craiova', 'Piteshi', 'Bucharest'] 
+
+Other Routes:
+    
+['Timisoara', 'Mehadia', 'Drobeta', 'Craiova', 'RimnicuVilcea', 'Piteshi', 'RimnicuVilcea', 'Bucharest']
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

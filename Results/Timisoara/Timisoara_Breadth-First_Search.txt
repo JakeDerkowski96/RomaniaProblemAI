@@ -1,0 +1,15 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      Breadth-First_Search Statistics: Timisoara to Bucharest 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Trip cost:  9
+
+Shortest Path:
+
+['Timisoara', 'Arad', 'Sibiu', 'Fagaras', 'Bucharest'] 
+
+Other Routes:
+    
+['Timisoara', 'Arad', 'Lugoj', 'Zerind', 'Sibiu', 'Mehadia', 'Oradea', 'Rimnicu_Vilcea', 'Bucharest']
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,0 +1,21 @@
+Oradea -> {'Zerind': 1, 'Sibiu': 1}
+Zerind -> {'Oradea': 1, 'Arad': 1}
+Sibiu -> {'Oradea': 1, 'Arad': 1, 'Rimnicu_Vilcea': 1, 'Fagaras': 1}
+Arad -> {'Zerind': 1, 'Sibiu': 1, 'Timisoara': 1}
+Timisoara -> {'Arad': 1, 'Lugoj': 1}
+Lugoj -> {'Timisoara': 1, 'Mehadia': 1}
+Mehadia -> {'Lugoj': 1, 'Drobeta': 1}
+Drobeta -> {'Mehadia': 1, 'Craiova': 1}
+Craiova -> {'Drobeta': 1, 'RimnicuVilcea': 1, 'Piteshi': 1}
+Rimnicu_Vilcea -> {'Sibiu': 1}
+Fagaras -> {'Sibiu': 1, 'Bucharest': 1}
+RimnicuVilcea -> {'Piteshi': 1, 'Craiova': 1}
+Piteshi -> {'RimnicuVilcea': 1, 'Craiova': 1, 'Bucharest': 1}
+Bucharest -> {'Piteshi': 1, 'Fagaras': 1, 'Giurgiu': 1, 'Urziceni': 1}
+Giurgiu -> {'Bucharest': 1}
+Urziceni -> {'Bucharest': 1, 'Hirsova': 1, 'Vaslui': 1}
+Hirsova -> {'Urziceni': 1, 'Eforie': 1}
+Vaslui -> {'Urziceni': 1, 'Iasi': 1}
+Eforie -> {'Hirsova': 1}
+Iasi -> {'Vaslui': 1, 'Neamt': 1}
+Neamt -> {'Iasi': 1}
