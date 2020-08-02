@@ -57,9 +57,4 @@ I used this assignment to become more familiar with search algorithms that are c
 Thanks
 
 ## Authors
-### Jake Derkowski
-
-[LinkedIn](https://www.linkedin.com/in/jake-derkowski2020/)
-
-
-[Email](mailto:jakederkowski12@gmail.com)
+### Jake Derkowski [LinkedIn](https://www.linkedin.com/in/jake-derkowski2020/)  [Email](mailto:jakederkowski12@gmail.com)
